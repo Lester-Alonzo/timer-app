@@ -1,0 +1,23 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dep": "npx gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lester-Alonzo/timer-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lester-Alonzo/timer-app/issues"
+  },
+  "homepage": "https://github.com/Lester-Alonzo/timer-app#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
